@@ -1,4 +1,5 @@
 DayEasy - Android Wellness Tracking Application
+
 📱 Overview
 
 DayEasy is an Android-based wellness tracking application developed using Kotlin to help users improve their daily wellbeing through structured self-management. The application combines habit tracking, mood journaling, and hydration monitoring into a single platform, enabling users to build positive routines, track emotional wellbeing, and maintain healthy hydration habits.
