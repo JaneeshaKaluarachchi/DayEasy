@@ -6,23 +6,33 @@ DayEasy is an Android-based wellness tracking application developed using Kotlin
 The app is designed with a modern and intuitive user interface following Material Design principles, providing a seamless and engaging user experience.
 
 ✨ Features
+
 🎯 Habit Tracking
+
 Create and manage personalized daily habits
 Track habit completion and monitor consistency
 Visual progress indicators to encourage goal achievement
+
 😊 Mood Journaling
+
 Record daily moods using emoji-based selections
 Maintain a history of emotional states
 Gain insights into emotional wellbeing over time
+
 💧 Hydration Monitoring
+
 Track daily water intake
 Set customizable hydration goals
 Receive reminders to stay hydrated throughout the day
+
 📊 Wellness Analytics
+
 View mood trends through interactive charts and visualizations
 Analyze behavioral patterns and progress
 Monitor overall wellness performance
+
 🔔 User Engagement
+
 Motivational messages and wellness tips
 Reminder notifications for habits and hydration goals
 Home screen widget for quick access to key information
