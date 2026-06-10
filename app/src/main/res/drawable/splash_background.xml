@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:opacity="opaque">
+
+    <!-- Gradient Background - Same as login/signup -->
+    <item>
+        <shape>
+            <gradient
+                android:angle="135"
+                android:endColor="@color/primary_60"
+                android:centerColor="@color/primary_light"
+                android:startColor="@color/secondary_light"
+                android:type="linear" />
+        </shape>
+    </item>
+
+    <!-- Logo centered with proper sizing -->
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/dayeasylogo"
+            android:tileMode="disabled" />
+    </item>
+
+</layer-list>

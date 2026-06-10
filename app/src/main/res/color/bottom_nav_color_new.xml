@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Selected state - vibrant orange/gold -->
+    <item android:color="@color/accent_10" android:state_checked="true" />
+    <!-- Default state - white/light color -->
+    <item android:color="@color/primary_light" />
+</selector>
+

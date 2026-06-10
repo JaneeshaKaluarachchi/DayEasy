@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Dark theme with 60-30-10 color scheme -->
+    <style name="Base.Theme.WellnessTracker" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary colors (60% - Soft Teal adapted for dark) -->
+        <item name="colorPrimary">@color/dark_primary</item>
+        <item name="colorPrimaryVariant">@color/primary</item>
+        <item name="colorOnPrimary">@color/black</item>
+
+        <!-- Secondary colors (30% - Warm Coral) -->
+        <item name="colorSecondary">@color/secondary_light</item>
+        <item name="colorSecondaryVariant">@color/secondary_30</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Accent colors (10% - Vibrant Purple) -->
+        <item name="colorTertiary">@color/accent_light</item>
+        <item name="colorTertiaryContainer">@color/accent_10</item>
+        <item name="colorOnTertiary">@color/black</item>
+
+        <!-- Surface and background colors -->
+        <item name="colorSurface">@color/dark_surface</item>
+        <item name="colorOnSurface">@color/white</item>
+        <item name="android:colorBackground">@color/dark_background</item>
+        <item name="colorOnBackground">@color/white</item>
+
+        <!-- Status bar -->
+        <item name="android:statusBarColor">@color/dark_background</item>
+        <item name="android:navigationBarColor">@color/dark_surface</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

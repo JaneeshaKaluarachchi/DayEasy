@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Background with DayEasy color scheme -->
+    <solid android:color="@color/surface" />
+
+    <!-- Rounded corners for modern look -->
+    <corners android:radius="16dp" />
+
+    <!-- Border using DayEasy orange accent -->
+    <stroke
+        android:width="2dp"
+        android:color="@color/secondary_30" />
+
+</shape>

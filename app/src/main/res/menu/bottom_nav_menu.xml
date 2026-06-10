@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_habits"
+        android:icon="@drawable/habits"
+        android:title="@string/nav_habits" />
+
+    <item
+        android:id="@+id/nav_mood"
+        android:icon="@drawable/mood"
+        android:title="@string/nav_mood" />
+
+    <item
+        android:id="@+id/nav_hydration"
+        android:icon="@drawable/hydration"
+        android:title="@string/nav_hydration" />
+
+    <item
+        android:id="@+id/nav_analytics"
+        android:icon="@drawable/analytics"
+        android:title="@string/nav_analytics" />
+
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/settings"
+        android:title="@string/nav_settings" />
+</menu>
