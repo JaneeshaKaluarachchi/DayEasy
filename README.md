@@ -26,6 +26,7 @@ Monitor overall wellness performance
 Motivational messages and wellness tips
 Reminder notifications for habits and hydration goals
 Home screen widget for quick access to key information
+
 🏗️ Architecture
 
 The application follows a Fragment-Based MVVM (Model-View-ViewModel) Inspired Architecture, ensuring:
@@ -33,7 +34,9 @@ The application follows a Fragment-Based MVVM (Model-View-ViewModel) Inspired Ar
 Clear separation of concerns
 Maintainable and scalable code structure
 Improved code readability and reusability
+
 🛠️ Technologies Used
+
 Kotlin
 Android Studio
 MVVM Architecture
@@ -43,18 +46,23 @@ RecyclerView
 Notifications
 Home Screen Widgets
 Git & GitHub
+
 🚀 Installation
+
 Clone the repository
 git clone https://github.com/your-username/dayeasy.git
 Open the project in Android Studio
 Sync Gradle files
 Build and run the application on an Android device or emulator
+
 🎯 Project Objectives
+
 Promote healthy daily habits
 Improve self-awareness through mood tracking
 Encourage consistent hydration
 Provide actionable wellness insights through analytics
 Deliver a simple and engaging wellness management experience
+
 👨‍💻 Developer
 
 Developed as an Android mobile application project using Kotlin and Android development best practices.
